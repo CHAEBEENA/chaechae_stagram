@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "930262624940",
+    "firebase_url": "https://chaechaestagram.firebaseio.com",
+    "project_id": "chaechaestagram",
+    "storage_bucket": "chaechaestagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930262624940:android:6456fa310391372e110d09",
+        "android_client_info": {
+          "package_name": "com.example.chaechae_stagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930262624940-40443surgr2kdoaeh1msu9vu4tnkhtag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chaechae_stagram",
+            "certificate_hash": "b5e3c97374310447ed852da35dc973d2130a4ef2"
+          }
+        },
+        {
+          "client_id": "930262624940-kfpq9pn70jfa6s1sl5vuctr95ilq5cdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb8n_qgWB_rzB9bF21R5N7Sq4neygfK2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930262624940-kfpq9pn70jfa6s1sl5vuctr95ilq5cdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
