@@ -12,6 +12,7 @@
             android:id="@+id/account_iv_profile"
             android:layout_width="100dp"
             android:layout_height="100dp"
+            android:src="@drawable/ic_account"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"/>
         <Button
